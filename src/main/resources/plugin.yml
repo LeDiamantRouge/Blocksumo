@@ -1,0 +1,10 @@
+name: BlockSumo
+version: '${project.version}'
+main: fr.lediamantrouge.blocksumo.Main
+authors: [ LeDiamantRouge ]
+description: Blocksumo plugin
+
+commands:
+  blocksumo:
+    aliases: [bs]
+    description: Main command for the blocksumo
